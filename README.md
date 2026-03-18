@@ -1,2 +1,11 @@
-# Capitulo254
-Código y esquema de conexionado para proyecto Capítulo 254 en YT
+# Altavoces Bluetooth con Raspberry Pico W 
+
+Códigos para Arduino IDE que permite mediante una Raspberry Pi Pico W convertir altavoces comunes en Bluetooth, se agregó una pantalla OLED SSD1306 que permite tener lectura de la canción que se esta escuchando.
+
+![Esquematico](esquematico.jpg)
+
+
+# Paso a paso
+
+La explicación completa la podrás ver en el siguiente video de Youtube:
+https://youtu.be/
